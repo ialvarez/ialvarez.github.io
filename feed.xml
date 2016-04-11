@@ -1,26 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ignacio Alvarez Blog</title>
+    <title>Ignacio Alvarez</title>
     <description>This is my personal blog of programming.
 </description>
-    <link>https://ignacioalvarez.es/</link>
-    <atom:link href="https://ignacioalvarez.es/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 11 Mar 2016 18:59:10 +0100</pubDate>
-    <lastBuildDate>Fri, 11 Mar 2016 18:59:10 +0100</lastBuildDate>
-    <generator>Jekyll v2.5.3</generator>
+    <link>http://blog.ignacioalvarez.es</link>
+    <atom:link href="http://blog.ignacioalvarez.es/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
         <title>Hello World!</title>
-        <description>&lt;p&gt;Hello World!&lt;/p&gt;
-</description>
+        <description>
+          
+          Hello World!
+
+        </description>
         <pubDate>Fri, 11 Mar 2016 00:00:00 +0100</pubDate>
-        <link>https://ignacioalvarez.es/personal/2016/03/11/hello-world.html</link>
-        <guid isPermaLink="true">https://ignacioalvarez.es/personal/2016/03/11/hello-world.html</guid>
-        
-        
-        <category>personal</category>
-        
+        <link>http://blog.ignacioalvarez.es/2016-03-11-hello-world/</link>
+        <guid isPermaLink="true">http://blog.ignacioalvarez.es/2016-03-11-hello-world/</guid>
       </item>
     
   </channel>
